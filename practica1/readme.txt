@@ -1,0 +1,1 @@
+Las carpetas resultados_esperados y resultados_obtenidos contienen todas las pruebas realizadas debido a que no hemos podido incluirlas en la memoria por problemas de espacio.
